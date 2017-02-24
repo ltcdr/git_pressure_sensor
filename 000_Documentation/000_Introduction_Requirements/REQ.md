@@ -14,4 +14,4 @@ The system includes
 - a sensor to measure the pressure
 
 ## Chapter 2: Software Requirements
-TEST
+The time interval for getting a pressure value from the sensor shall be adjustable via a parameter.
